@@ -1,6 +1,6 @@
 # Ataraxy Developers community projects
 
-A collection of twelve focused tools, exercises, and guides. All are public and
+A collection of 32 focused projects: 20 business workspaces and 12 developer tools, exercises, and guides. All are public and
 MIT licensed. Use them in your own projects, adapt the examples, and contribute
 improvements through repository issues and pull requests.
 
@@ -25,6 +25,41 @@ improvements through repository issues and pull requests.
 | [Small-App Deployment Recipes](https://github.com/AtaraxyDevelopers/small-app-deployment-recipes) | A runnable persistent Node.js app with backup, restore, container, and rollback exercises. |
 | [Open Engineering Handbook](https://github.com/AtaraxyDevelopers/open-engineering-handbook) | Adaptable engineering practices, fictional worked examples, and a safe template generator. |
 | [Developer Guides: English and Urdu](https://github.com/AtaraxyDevelopers/developer-guides-en-ur) | Ten bilingual practical lessons with runnable JavaScript examples and tests. |
+
+## Business workspaces
+
+| Project | What you can use |
+| :--- | :--- |
+| [Lead Response Desk](https://github.com/AtaraxyDevelopers/lead-response-desk) | Give every incoming inquiry an owner and a timely first response. |
+| [Lead Qualification Engine](https://github.com/AtaraxyDevelopers/lead-qualification-engine) | Prioritize leads with explainable, adjustable qualification scores. |
+| [Sales Pipeline Board](https://github.com/AtaraxyDevelopers/sales-pipeline-board) | Track deal stages, next actions, and stalled opportunities in one workspace. |
+| [Quote to Sale](https://github.com/AtaraxyDevelopers/quote-to-sale) | Prepare clear quotations and export customer-ready HTML documents. |
+| [Proposal Follow-Up Planner](https://github.com/AtaraxyDevelopers/proposal-followup-planner) | Keep proposal follow-ups timely, specific, and respectful. |
+| [Booking Conversion Kit](https://github.com/AtaraxyDevelopers/booking-conversion-kit) | Qualify consultation requests and manage conflict-free appointment slots. |
+| [Customer ROI Calculator](https://github.com/AtaraxyDevelopers/customer-roi-calculator) | Explain the potential savings and payback of a proposed solution. |
+| [Referral Revenue Tracker](https://github.com/AtaraxyDevelopers/referral-revenue-tracker) | Connect referral codes with verified sales and outstanding partner rewards. |
+| [Lost Deal Revival](https://github.com/AtaraxyDevelopers/lost-deal-revival) | Revisit lost opportunities when there is a relevant reason to reconnect. |
+| [Checkout Recovery Kit](https://github.com/AtaraxyDevelopers/checkout-recovery-kit) | Prioritize abandoned checkouts and track confirmed recovered orders. |
+| [Invoice Collection Desk](https://github.com/AtaraxyDevelopers/invoice-collection-desk) | See overdue balances and prepare accurate payment reminder drafts. |
+| [Renewal Retention Manager](https://github.com/AtaraxyDevelopers/renewal-retention-manager) | Prepare for renewals and track customer health before contracts expire. |
+| [Upsell Opportunity Finder](https://github.com/AtaraxyDevelopers/upsell-opportunity-finder) | Find relevant upgrades using transparent customer fit rules. |
+| [Sales Funnel Analyzer](https://github.com/AtaraxyDevelopers/sales-funnel-analyzer) | Find the largest conversion losses across comparable sales cohorts. |
+| [Campaign Profit Tracker](https://github.com/AtaraxyDevelopers/campaign-profit-tracker) | Compare campaign revenue with advertising and fulfillment costs. |
+| [Profit-Safe Pricing Calculator](https://github.com/AtaraxyDevelopers/profit-safe-pricing) | Check price floors and discount headroom before making an offer. |
+| [Customer Profitability Analyzer](https://github.com/AtaraxyDevelopers/customer-profitability-analyzer) | Understand which customer relationships support sustainable delivery. |
+| [Subscription Spend Auditor](https://github.com/AtaraxyDevelopers/subscription-spend-auditor) | Review unused seats and upcoming renewals before more money is committed. |
+| [Inventory Reorder Planner](https://github.com/AtaraxyDevelopers/inventory-reorder-planner) | Plan replenishment from observed demand, supplier lead times, and available stock. |
+| [Project Scope & Margin Guard](https://github.com/AtaraxyDevelopers/project-margin-guard) | Spot scope creep and estimate the cost to finish before a project loses its margin. |
+
+Install Node.js 22 or 24, run `npm ci`, `npm test`, `npm run example`, then `npm start`.
+Open the exact 127.0.0.1 address printed by the app. The README includes a screenshot,
+expected example results, field definitions, backup/restore instructions and optional
+integration examples where available. Each app saves data on your own computer.
+
+All 20 business projects include Chromium workflow tests and automated accessibility
+checks. They use one currency per workspace and transparent, configurable assumptions.
+Review outputs before using them for business decisions. Public multi-user hosting and
+automated email, payment or store connections need additional integration work.
 
 ## Download and run
 
