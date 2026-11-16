@@ -1,3 +1,5 @@
+<p><a href="https://ataraxydevelopers.com"><img src="assets/ataraxy-developers-logo.png" alt="Ataraxy Developers — Turning Digital Visions Into Reality" width="520"></a></p>
+
 # Ataraxy Developers community projects
 
 A collection of 32 focused projects: 20 business workspaces and 12 developer tools, exercises, and guides. All are public and

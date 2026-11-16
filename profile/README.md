@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://ataraxydevelopers.com"><img src="https://raw.githubusercontent.com/AtaraxyDevelopers/.github/main/assets/ataraxy-developers-logo.png" alt="Ataraxy Developers — Turning Digital Visions Into Reality" width="680"></a>
+
 # Ataraxy Developers
 
 ### Turning digital visions into reality.
